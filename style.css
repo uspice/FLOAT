@@ -1,0 +1,164 @@
+/*
+    Pilko teksto spalva
+    #666;
+
+    Bloko viršutinio border ir h1 spalva:
+    #0974b3
+
+*/
+
+body {
+    background: #DCDCDC;
+    font-family: 'News Cycle', sans-serif;
+    color: #666;
+    font-size: 16px;
+
+  }
+
+/* Pirmas straipsnis */
+
+.container {
+  padding: 20px;
+  text-align: justify;
+}
+
+.article {
+  border: 1px solid #CBCFD1;
+  border-top: 8px solid #0974b3;
+  background-color: white;
+  padding: 20px;
+  width: 1000px;
+  height: 400px;
+}
+
+.image {
+  float: left;
+  width: 150px;
+  height: 200px;
+  margin-top: 90px;
+  margin-left: 20px;
+  margin-right: 20px;
+
+}
+
+.heading {
+position: absolute;
+margin-top: 0px;
+margin-left: 20px;
+color: #0974b3;
+font-weight: bold;
+font-size: 28px;
+}
+
+.year {
+  position: absolute;
+  margin-top: 40px;
+  margin-left: 20px;
+}
+
+.p {
+  padding-top: 70px;
+  padding-left: 20px;
+
+}
+
+
+/* Antras straipsnis */
+
+.container2 {
+  padding: 20px;
+  text-align: justify;
+  display: inline-block;
+}
+
+.article2 {
+  border: 1px solid #CBCFD1;
+  background-color: white;
+  border-top: 8px solid #0974b3;
+  padding: 20px;
+  width: 455px;
+  height: 400px;
+  display: inline-block;
+}
+
+.image2 {
+  float: left;
+  width: 150px;
+  height: 200px;
+  margin-top: 90px;
+  margin-left: 20px;
+  margin-right: 20px;
+
+}
+
+.heading2 {
+position: absolute;
+margin-top: 0px;
+margin-left: 20px;
+color: #0974b3;
+font-weight: bold;
+font-size: 28px;
+}
+
+.year2 {
+  position: absolute;
+  margin-top: 40px;
+  margin-left: 20px;
+  font-size: 18px;
+}
+
+.p2 {
+  padding-top: 70px;
+  padding-left: 20px;
+
+}
+
+/* Trečias straipsnis */
+
+.container3 {
+  padding: 20px;
+  text-align: justify;
+  display: inline-block;
+}
+
+.article3 {
+  border: 1px solid #CBCFD1;
+  background-color: white;
+  border-top: 8px solid #0974b3;
+  padding: 20px;
+  width: 455px;
+  height: 400px;
+  display: inline-block;
+}
+
+.image3 {
+  float: left;
+  width: 150px;
+  height: 200px;
+  margin-top: 90px;
+  margin-left: 20px;
+  margin-right: 20px;
+
+}
+
+.heading3 {
+position: absolute;
+margin-top: 0px;
+margin-left: 20px;
+color: #0974b3;
+font-weight: bold;
+font-size: 28px;
+}
+
+.year3 {
+  position: absolute;
+  margin-top: 40px;
+  margin-left: 20px;
+  font-size: 18px;
+}
+
+.p3 {
+  padding-top: 70px;
+  padding-left: 20px;
+
+}
